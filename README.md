@@ -1,2 +1,2 @@
-# hulkshare
-hulkshare recommendation
+# Recommender system
+media recommendation model
